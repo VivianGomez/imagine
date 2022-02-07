@@ -407,3 +407,23 @@ collab-FredericMerienn:
     webpage: http://www.linkedin.com/pub/fr%C3%A9d%C3%A9ric-merienne/14/586/451
     role: collab
     image: http://institutimage.ensam.eu/medias/photo/frederic-merienne_1418637891333-jpg
+    
+ugrad-martinAlvarez:
+    display_name: Martin Alvarez Gaviria
+    role: ugrad-alum
+    image: /img/people/foto_MartinAlvarez.jpg
+
+ugrad-nicolasBejar:
+    display_name: Nicolas Bejar Arambula
+    role: ugrad-alum
+    image: /img/people/foto_NicolasBejar.jpg
+    
+ugrad-camiloAlfonso:
+    display_name: Camilo Alejandro Alfonso Sánchez
+    role: ugrad-alum
+    image: /img/people/foto_CamiloAlfonso.jpg
+
+master-santiagoMunera:
+    display_name: Santiago Felipe Munera Dávila
+    role: master
+    image: /img/people/foto_SantiagoMunera.jpg
